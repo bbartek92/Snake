@@ -14,14 +14,3 @@ while True:
     game.snake.take_step(position)
     game.render()
     
-
-
-
-
-
-
-# print(game.snake.direction)
-# game.take_direction()
-# print(game.snake.direction)
-# print(game.snake.head())
-# print(game.calc_position())
